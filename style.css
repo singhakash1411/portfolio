@@ -1,6 +1,6 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color: black;
+    background-color: #F0E4D3;
     color: #333;
     line-height: 1.6;
     padding: 20px;
@@ -485,4 +485,5 @@ footer {
     background-color: #eaeaea;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 
